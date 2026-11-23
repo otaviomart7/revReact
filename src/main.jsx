@@ -3,7 +3,7 @@ import { createBrowserRouter } from "react-router";
 import { RouterProvider } from "react-router/dom";
 import './index.css'
 import App from './App.jsx'
-import Charts from './Charts.jsx'
+import Charts from './Charts.jsx';
 
 const router = createBrowserRouter([
   {

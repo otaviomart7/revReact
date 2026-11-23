@@ -1,6 +1,7 @@
 .wrapHome{
   min-height: 100vh;
   height: auto;
-  background-color: var(--dark);
+  background-image: url('https://i.pinimg.com/736x/42/09/a4/4209a481c20553a44b4ec2184c68d0c6.jpg');
+  background-size: cover;
   color: var(--light);
 }
