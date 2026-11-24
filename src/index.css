@@ -20,4 +20,8 @@ a{
   color: inherit;
 }
 
+.leaflet-control-attribution{
+  display: none;
+}
+
 

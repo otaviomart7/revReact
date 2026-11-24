@@ -4,4 +4,14 @@
   background-image: url('https://i.pinimg.com/736x/42/09/a4/4209a481c20553a44b4ec2184c68d0c6.jpg');
   background-size: cover;
   color: var(--light);
+  display: flex;
+  align-items: center;
+  justify-content: center;
 }
+
+.map{
+  width: 70vw;
+  height: 70vh;
+  border-radius: 20px;
+}
+
